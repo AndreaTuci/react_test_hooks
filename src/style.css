@@ -1,0 +1,57 @@
+button {
+  margin-left: 5px;
+  color: #3D3D3D;
+  background-color: #FFF;
+  padding: 0.1rem 1rem;
+  border: 1px solid #3D3D3D;
+  position: absolute;
+  left: 500px;
+  width: 100px;
+}
+
+ul{
+  margin-left: 30px;
+}
+
+li{
+  list-style-type: none;
+  margin: 1rem;
+}
+
+.flash {
+  background-color: #F8F8F8;
+  transition: box-shadow 200ms ease-out;
+}
+
+.evidenzia{
+  color: darkred;
+  font-weight: 800;
+}
+
+.container-evidenzia{
+  margin-left: 85px;
+}
+
+.input-todo{
+  width: 350px;
+}
+
+
+.input-query{
+  margin-left: 7px;
+  width: 330px;
+}
+
+.app-title{
+  margin-left: 90px;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0;
+  color: #F25757;
+}
+
+.task-description{
+  margin-left: 7px;
+}
